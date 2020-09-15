@@ -1,4 +1,4 @@
-Marvel Comics API
+                                                          Marvel Comics API
 
 The Marvel Comics API allows developers to access information about Marvel's vast library of
 comics.
